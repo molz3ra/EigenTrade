@@ -70,4 +70,4 @@ Este projeto está licenciado sob a GNU General Public License v3.0.
 
 AVISO: Este software tem fins puramente educacionais e de pesquisa. Negociar ativos financeiros envolve riscos significativos. O desenvolvedor não se responsabiliza por quaisquer perdas financeiras. Backtests passados não garantem lucros futuros.
 
-Desenvolvido com ☕ e Python por [Seu Nome ou User]
+Desenvolvido com ☕ e Python por [molz3ra]
