@@ -71,17 +71,3 @@ Este projeto está licenciado sob a GNU General Public License v3.0.
 AVISO: Este software tem fins puramente educacionais e de pesquisa. Negociar ativos financeiros envolve riscos significativos. O desenvolvedor não se responsabiliza por quaisquer perdas financeiras. Backtests passados não garantem lucros futuros.
 
 Desenvolvido com ☕ e Python por [Seu Nome ou User]
-
-
----
-
-### Por que este README é Sênior?
-
-1.  **Badges Visuais:** Demonstram que você conhece as ferramentas e se importa com a apresentação.
-2.  **Tabela de Tecnologias:** Facilita a leitura rápida para recrutadores que buscam palavras-chave (Buzzwords técnicas).
-3.  **Explicação de Arquitetura:** Você não diz apenas *o que* o código faz, mas *como* ele foi pensado (S.O.L.I.D., Look-ahead Bias, OOT). Isso prova senioridade.
-4.  **Roadmap:** Mostra que você tem visão de produto e sabe para onde o software vai evoluir.
-
-**Próximo Passo:** Atualize o seu arquivo `README.md` com este conteúdo. Depois, rode os comandos de Git (`add`, `commit` e `push`) para o seu GitHub ficar com essa cara profissional. 
-
-Quando terminar, quer que eu prepare o **Dockerfile** (o "container" da v2) para começarmos a jornada rumo à AWS?
