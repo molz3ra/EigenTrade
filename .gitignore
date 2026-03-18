@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de Dados (Nunca suba bases pesadas para o Git)
+*.csv
+*.parquet
+
+# Variáveis de Ambiente (Onde ficarão suas Chaves da Binance/AWS no futuro)
+.env
